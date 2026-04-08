@@ -19,15 +19,6 @@ A atividade é composta por 6 exercícios práticos, cada um focando em um méto
 
 ---
 
-## ⚙️ Como executar os códigos
-
-1. Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/downloads/) instalado na sua máquina.
-2. Clone o repositório ou baixe os arquivos desta pasta.
-3. Abra a pasta em sua IDE favorita (IntelliJ IDEA, Eclipse, VS Code, etc.).
-4. Como a maioria dos exercícios exige entrada de dados, execute o arquivo desejado e interaja com o terminal (console) da sua IDE para digitar as informações solicitadas.
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por **Gabriel Victor** para a disciplina de Programação 2.
