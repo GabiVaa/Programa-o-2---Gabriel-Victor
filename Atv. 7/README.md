@@ -17,5 +17,3 @@ O projeto está dividido em duas classes dentro do pacote `praticasete`:
 
 * **`Aluno.java`**: Classe de modelo que contém os atributos, construtor, métodos de cálculo de média e de impressão do status do aluno.
 * **`Principal.java`**: Classe executável (`main`) utilizada para instanciar os objetos de teste e exibir os resultados no console.
-
-   javac -d . Aluno.java Principal.java
