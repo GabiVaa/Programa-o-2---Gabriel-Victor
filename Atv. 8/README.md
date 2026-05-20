@@ -32,15 +32,3 @@ Uma representação em POO para cálculo de propriedades geométricas básicas d
   Caso um valor fora desse intervalo (valores negativos, zero ou maiores/iguais a 20) seja fornecido, o sistema emite um alerta e ignora a alteração.
 * **Métodos de Cálculo:** * Área = $\text{altura} \times \text{largura}$
   * Perímetro = $2 \times (\text{altura} + \text{largura})$
-
----
-
-## 🚀 Como Compilar e Executar
-
-### Pré-requisitos
-Certifique-se de ter o **JDK (Java Development Kit)** devidamente instalado e configurado nas suas variáveis de ambiente.
-
-### Passo a Passo no Terminal
-1. Insira todos os arquivos em um mesmo diretório do seu sistema.
-2. Abra o terminal (ou Prompt de Comando) e navegue até a pasta onde os arquivos se encontram.
-3. Compile todos os códigos simult
