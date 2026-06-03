@@ -18,13 +18,3 @@ O sistema roda no terminal e apresenta um menu interativo com as seguintes opç�
 3. **Listar todos os funcionários:** Exibe os dados de todos os funcionários cadastrados no sistema.
 4. **Mostrar salário de funcionário:** Busca um funcionário pelo CPF e exibe seu salário final calculado (salário base + bonificações/comissões).
 5. **Sair:** Encerra a aplicação.
-
-## 🚀 Como Executar o Projeto
-
-Certifique-se de ter o [Java JDK](https://www.oracle.com/java/technologies/downloads/) instalado na sua máquina. 
-
-1. Clone este repositório ou baixe o arquivo `TesteFuncionario.java`.
-2. Abra o terminal e navegue até a pasta onde o arquivo está salvo.
-3. Compile o código com o comando:
-   ```bash
-   javac TesteFuncionario.java
